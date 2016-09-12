@@ -1,0 +1,37 @@
+
+
+Collaborative Organizer
+  1. Sign up
+  2. Log In
+  3. Log Out
+  4. User Profile
+    A. Username
+    B. First Name
+    C. Last Name
+    D. Phone Number
+    E. Email
+    F. Address
+    G. Profile Picture
+    H. Friends/Family Group
+  5. Main Page
+    A. Create Cabinet (Vacations, Taxes, Pets, )
+    B. View Cabinets
+      1. Name
+      2. Sections
+        a. SubSections
+          * Notes 
+      
+Group Messaging App
+  1. Sign Up
+  2. Log In
+  3. Log Out
+  
+  
+
+
+
+3. Local Concerts connect to Spotify
+
+
+
+4. 
